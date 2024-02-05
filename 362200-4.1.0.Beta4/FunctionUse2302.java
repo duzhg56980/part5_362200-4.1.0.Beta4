@@ -1,0 +1,7 @@
+import io.netty.handler.codec.AsciiString.4;
+public class FunctionUse2302 {
+public void funcUse() {
+4 4 = new 4();
+4.compare(null,null);
+}
+}
